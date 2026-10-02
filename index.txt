@@ -1,1 +1,4 @@
-Capítol 1: Introducció a git\nCapítol 2: Flux de traball bàsic\nCapítol 3: Repositoris remots
+Capítol 1: Introducció a git
+Capítol 2: Flux de traball bàsic
+Capítol 3:Gestió de branquets
+Capítol 4: Respositoris remots
