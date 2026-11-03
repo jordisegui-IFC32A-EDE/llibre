@@ -1,1 +1,0 @@
-En aquest capítol veurem com col·laborar mitjançant pull requests.
